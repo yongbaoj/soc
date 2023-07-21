@@ -1,52 +1,52 @@
 {
-  "Soc": [
-    {
-      "id": 1,
-      "title": "Security Incident Response Plan",
-      "details": "Our experts will help you assess your existing applications and application designs, identify potential threats, recommendation countermeasures, prioritize defense and make sure they are secure.",
-      "image": "/SocSec1.jpg",
-      "points": {
-        "headwhy": "Why threat model?" ,
-        "why": "Threat Modelling has become an increasingly important part of Secure software development lifecycle (SSDL)process and has been widely adopted to be an industry security best practice. ",
-        "headwhen": "When To Perform Threat Modelling?" ,
-        "when": "Optimally, threat modelling should be done at an early stage of the development as it can save significant resources on risk mitigation during a later phase.<br><br>Cyber security, threat and technology landscape is constantly evolving, it's also important to perform Threat Modelling on existing systems, applications or features to identify new threats and vulnerabilities.<br>In the absence of new feature development or enhancement, threat modelling should be revisited as part of support and maintenance activities.",
-        "headhow": "What Methodologies and Tools to Use?" ,
-        "how": "There are many Threat Modelling methodologies and tools and we'll primiarily use Microsoft STRIDE, Mitre Att@ck, Attack Tree, DREAD and CVSS, etc.",
-        "headwho": "Who should threat model?" ,
-        "who": "You. Everyone. Anyone who is concerned about the privacy, safety, and security of their system."
+    "Soc": [
+      {
+        "id": 1,
+        "title": "Security Incident Response Plan",
+        "details": "Our experts help you <ul><li>Define Security Incident Response Process Flow</li><li>Idenitfy Key Security Breach Scenarios</li> <li>Identify Key Incident Response Playbooks</li>  </ul> Making sure you're well prepared in the event of any adversary events",
+        "image": "/SocSec1.jpg",
+        "points": {
+            "headwhy": "Why Security Incident Response Plan?" ,
+            "why": "Security Incident happens on daily basis with increasingly severe consequences. <br> No organization is immue to security breaches or incidents and you can never be overly prepared <br> It can be mandated by some regulations that dependes on your industries and obligations",
+            "headwho": "Who should have Security Incident Response Plan?" ,
+            "who": "You. Everyone. Anyone who is concerned about the privacy, safety, and security of your cloud workloads.",
+            "headwhen": "When To engage us?" ,
+            "when": "Ideally, we want to be engaged at the early stage of your application design/rearchitecture as it can save significant resources on risk mitigation during a later phase.<br><br> Cloud services are constantly evolving, we have helped many customers assess their Cloud workloads and it's also important to perform assessment on existing workloads.<br>In the absence of new development, cloud workload assessment should be revisited as part of support and maintenance activities.",
+            "headhow": "What Methodologies and Tools to Use?" ,
+            "how": "In ACloud, we have assessed over 100+ public cloud services and over 1000+ APIs so we know what we need to look for and will assess your cloud workloads based on our cloud service assessment benchmark and also your user cases and requirements."
+          }
+      },
+      {
+        "id": 2,
+        "title": "Active Directory Security Breach Response Plan",
+        "details": "Our experts help you <ul><li>Define Various Active Directory Security Breach Scenario</li><li>Define Detailed Active Directory Recovery Steps Per Scenario</li> <li>Drill Breach and Recovery Process</li>  </ul> Making sure you're well prepared in the event of any Active Directory breaches",
+        "image": "/SocSec2.jpg",
+        "points": {
+            "headwhy": "Why Active Directory Security Breach Response Plan Matters?" ,
+            "why": "Active Directory is often classified as Crown Jewels of many organization and any Active Directory security breach indicates a severe security breach across an organiations.",
+            "headwho": "Who should have Active Directory Security Breach Response Plan?" ,
+            "who": "You. Anyone who use Active Directory as their main identity provider.",
+            "headwhen": "When To engage us?" ,
+            "when": "Now, we want to be engaged prior to any AD security breach so we can make sure you're prepared. <br><br> You can also engage us when there's AD security breach but its recovery will depend on your preparation. We can assist you on recovering AD from any security breach",
+            "headhow": "What Methodologies and Tools to Use?" ,
+            "how": "In ACloud, we have very seasoned Active Directory specialists with decades of experience helping various organization on varied Active Directory events and their experience and playbooks have been repeatedly validated."
+          }
+      },
+      {
+        "id": 3,
+        "title": "PKI Security Breach Response Plan",
+        "details": "Our experts help you <ul><li>Define Various PKI (Public Key Infrastructure) Breach Scenario</li><li>Define Detailed PKI Recovery Steps Per Scenario</li> <li>Drill Breach and Recovery Process</li>  </ul> Making sure you're well prepared in the event of any PKI breaches",
+        "image": "/SocSec3.jpg",
+        "points": {
+            "headwhy": "Why PKI Security Breach Response Plan Matters?" ,
+            "why": "PKI is usually a vital security solution for authentication, encryption, signature and many other use cases is often closely coupled with Active Directory. Any PKI breach indicates a severe security breach across an organiations.",
+            "headwho": "Who should have Active Directory Security Breach Response Plan?" ,
+            "who": "You. Anyone who has enterprise PKI service.",
+            "headwhen": "When To engage us?" ,
+            "when": "Now, we want to be engaged prior to any PKI security breach so we can make sure you're prepared. <br><br> You can also engage us when there's PKI security breach but its recovery will depend on your preparation. We can assist you on recovering PKI from any security breach",
+            "headhow": "What Methodologies and Tools to Use?" ,
+            "how": "In ACloud, we have very seasoned PKI specialists with decades of experience helping various organization on varied PKI events and their experience and playbooks have been repeatedly validated."
+          }
       }
-    },
-    {
-      "id": 2,
-      "title": "Active Directory Security Breach Response Plan",
-      "details": "Our experts will help you assess your existing applications and application designs, identify potential potential abuse cases, recommende countermeasures and make sure your applications are secure.",
-      "image": "/SocSec2.jpg",
-      "points": {
-        "headwhy": "Why Abuse Case Analysis?" ,
-        "why": "Abuse case analysis is an industry security best practice to shift security to the left by identifying potential attackers and abuse cases in design phases. ",
-        "headwhen": "When To Perform Abuse Case Analysis?" ,
-        "when": "Abuse case analysis as an industry security practice is often used to identify security requirements during design phases. <br><br>It can also be used to assess security gaps and vulnerabilities identified by other tools or processes",
-        "headhow": "What Methodologies and Tools to Use?" ,
-        "how": "We use Threat Modelling methodologies and tools to assist Abuse Case Analysis.",
-        "headwho": "Who should threat model?" ,
-        "who": "Everyone with good knowledge of the business use cases and involved technologies can participate and contribute."
-      }
-    },
-    {
-      "id": 3,
-      "title": "PKI Security Breach Response Plan",
-      "details": "Our experts will help you define automated and repeatable security test cases to make sure your application stay safe",
-      "image": "/SocSec3.jpg",
-      "points": {
-        "headwhy": "Why Automate and Repeat Security Test?" ,
-        "why": "Traditional penetration test is manual, time consuming and costly and it's infeasible to engage manual penetration test for every signle application release",
-        "headwhen": "When To Automate and Repeat Security Test?" ,
-        "when": "If your application worths penetration testing and there're potential abuse cases you want to avoid",
-        "headhow": "What Methodologies and Tools to Use?" ,
-        "how": "Our team have built our own prioperity security test automation solution",
-        "headwho": "Who should Automate and Repeat Security Test?" ,
-        "who": "Everyone worry about your application security and has concerns on any abuse cases."
-      }
-    }
-  ]
-}
+    ]
+  }
