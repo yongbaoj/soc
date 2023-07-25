@@ -5,7 +5,7 @@
         "title": "Security Incident Response Plan",
         "details": "Our experts help you <ul><li>Define Security Incident Response Process Flow</li><li>Identify Key Security Breach Scenarios</li> <li>Prepare Key Incident Response Playbooks</li>  </ul> Making sure you're well prepared in the event of any adversary events.",
         "image": "/SocSec1.jpg",
-        "image-m": "/SocSec1-m.jpg",    
+        "image_m": "/SocSec1_m.jpg",    
         "points": {
             "headwhy": "Why Security Incident Response Plan?" ,
             "why": "Security Incident happens on daily basis with increasingly severe consequences. <br><br> No organization is immune to security breaches or incidents and you can never be overly prepared. <br><br> It can be mandated by some regulations that depends on your industries and obligations.",
@@ -22,7 +22,7 @@
         "title": "Active Directory Security Breach Response Plan",
         "details": "Our experts help you <ul><li>Define Various Active Directory Security Breach Scenario</li><li>Define Detailed Active Directory Recovery Steps Per Scenario</li> <li>Drill Breach and Recovery Process</li>  </ul> Making sure you're well prepared in the event of any Active Directory breaches.",
         "image": "/SocSec2.jpg",
-        "image-m": "/SocSec2-m.jpg",
+        "image_m": "/SocSec2_m.jpg",
         "points": {
             "headwhy": "Why Active Directory Security Breach Response Plan Matters?" ,
             "why": "Active Directory is often classified as Crown Jewels in many organization and any Active Directory security breach can mean a severe security breach across an organization.",
@@ -39,7 +39,7 @@
         "title": "PKI Security Breach Response Plan",
         "details": "Our experts help you <ul><li>Define Various PKI (Public Key Infrastructure) Breach Scenario</li><li>Define Detailed PKI Recovery Steps Per Scenario</li> <li>Drill Breach and Recovery Process</li>  </ul> Making sure you're well prepared in the event of any PKI breaches that depends on your preparation.",
         "image": "/SocSec3.jpg",
-        "image-m": "/SocSec3-m.jpg",
+        "image_m": "/SocSec3_m.jpg",
         "points": {
             "headwhy": "Why PKI Security Breach Response Plan Matters?" ,
             "why": "PKI is usually a vital security solution for authentication, encryption, signature and many other use cases and is often closely coupled with Active Directory. Any PKI breach can mean a severe security breach across an organization.",
